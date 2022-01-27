@@ -16,6 +16,24 @@
   * file
     * read
     * write
+* math
+  * loss
+  * np_loss
+    * MSE
+    * RMSE
+    * MAE
+    * MAPE
+    * SNR
+    * SSIM
+  * torch_loss
+    * MSE
+    * RMSE
+    * MAE
+    * MAPE
+    * SNR
+    * SSIM
+  * norm_p
+  * sqrt
 * network
   * http
     * get
@@ -24,3 +42,6 @@
     * delete
   * websocket
     * open_ws_server
+* ui
+  * ask_file
+  * ask_folder
