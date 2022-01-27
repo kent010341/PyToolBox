@@ -1,2 +1,19 @@
 # PyToolBox
 
+* assertion
+  * assert_var
+    * assert_type
+    * assert_iter
+    * assert_length
+* io
+  * file
+    * read
+    * write
+* network
+  * http
+    * get
+    * put
+    * post
+    * delete
+  * websocket
+    * open_ws_server
