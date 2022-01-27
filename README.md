@@ -5,6 +5,13 @@
     * assert_type
     * assert_iter
     * assert_length
+* coder
+  * decode
+    * decode_json
+    * decode_letter_string
+  * encode
+    * encode_json
+    * encode_letter_string
 * io
   * file
     * read
